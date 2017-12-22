@@ -1,0 +1,8 @@
+BUKRS-> Sociedad = T2  
+validar -> rut 
+
+rut 
+nro factura
+
+
+
