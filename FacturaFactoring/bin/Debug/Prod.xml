@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parametrogeneraless xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <servidor>servidorprod</servidor>
+  <usuario>userprod</usuario>
+  <contraseña>1234</contraseña>
+  <systemnumber>sysnumberprod</systemnumber>
+  <systemId>sysidprod</systemId>
+  <notificarexitoso>S</notificarexitoso>
+  <mailnotificaexi>donwea@gmail.com</mailnotificaexi>
+  <notificaError>S</notificaError>
+  <mailnotiicaError>erro@prod.cl</mailnotiicaError>
+  <dirDescargamail>C:\Users\daniel\Searches</dirDescargamail>
+  <dirErrorFormato>C:\Users\daniel\Documents</dirErrorFormato>
+  <dirErrorRFC>C:\Users\daniel\Pictures</dirErrorRFC>
+  <dirProcesados>C:\Users\daniel\Videos</dirProcesados>
+</parametrogeneraless>

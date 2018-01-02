@@ -13,3 +13,18 @@ D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.
 D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.xml
 D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.pdb
 D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.vbprojResolveAssemblyReference.cache
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.exe.config
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.exe
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.xml
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.pdb
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.exe
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.pdb
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.xml
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\rscp4n.dll
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\sapnco.dll
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Debug\sapnco_utils.dll
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.vbprojResolveAssemblyReference.cache
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.Configuracion.resources
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.Form1.resources
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.Resources.resources
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.vbproj.GenerateResource.Cache

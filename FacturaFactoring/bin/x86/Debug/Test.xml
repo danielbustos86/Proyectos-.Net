@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parametrogeneraless xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <servidor>222.1.120.3</servidor>
+  <usuario>ex_prismatec</usuario>
+  <contraseña>pris0403</contraseña>
+  <systemnumber>00</systemnumber>
+  <systemId>TST</systemId>
+  <notificarexitoso>S</notificarexitoso>
+  <mailnotificaexi>
+    <anyType xsi:type="xsd:string">danielbustos86@gmail.com</anyType>
+    <anyType xsi:type="xsd:string">victorbron@gmail.com</anyType>
+  </mailnotificaexi>
+  <notificaError>S</notificaError>
+  <mailnotiicaError>
+    <anyType xsi:type="xsd:string">caezadexanxo86@gmail.com</anyType>
+  </mailnotiicaError>
+  <dirDescargamail>C:\archivos\pendientes</dirDescargamail>
+  <dirErrorFormato>C:\archivos\error\formato</dirErrorFormato>
+  <dirErrorRFC>C:\archivos\error\rfc</dirErrorRFC>
+  <dirProcesados>C:\archivos\procesado</dirProcesados>
+  <dirlog>C:\archivos\log</dirlog>
+</parametrogeneraless>

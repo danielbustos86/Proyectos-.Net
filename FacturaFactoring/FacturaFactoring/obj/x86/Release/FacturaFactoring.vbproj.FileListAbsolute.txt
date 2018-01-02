@@ -1,0 +1,9 @@
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\bin\x86\Release\FacturaFactoring.exe.config
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.vbprojResolveAssemblyReference.cache
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.Configuracion.resources
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.Form1.resources
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.Resources.resources
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.vbproj.GenerateResource.Cache
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.exe
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.xml
+D:\Respaldo GITHUB\Net\Proyectos-.Net\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.pdb

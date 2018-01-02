@@ -1,0 +1,8 @@
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\Release\FacturaFactoring.exe.config
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.Configuracion.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.Form1.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.Resources.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.vbproj.GenerateResource.Cache
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.exe
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.xml
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\Release\FacturaFactoring.pdb

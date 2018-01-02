@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FacturaFactoring
+</name>
+</assembly>
+<members>
+<member name="M:FacturaFactoring.Mail.EnvioMail.#ctor">
+	<remarks/>
+</member><member name="E:FacturaFactoring.Mail.EnvioMail.Enviar_CorreoCompleted">
+	<remarks/>
+</member><member name="M:FacturaFactoring.Mail.EnvioMail.Enviar_Correo(System.String,System.String,System.String,System.String,System.String,System.String,FacturaFactoring.Mail.Entrada[],FacturaFactoring.Mail.Entrada[],FacturaFactoring.Mail.Entrada[],System.Byte[])">
+	<remarks/>
+</member><member name="M:FacturaFactoring.Mail.EnvioMail.Enviar_CorreoAsync(System.String,System.String,System.String,System.String,System.String,System.String,FacturaFactoring.Mail.Entrada[],FacturaFactoring.Mail.Entrada[],FacturaFactoring.Mail.Entrada[],System.Byte[])">
+	<remarks/>
+</member><member name="M:FacturaFactoring.Mail.EnvioMail.Enviar_CorreoAsync(System.String,System.String,System.String,System.String,System.String,System.String,FacturaFactoring.Mail.Entrada[],FacturaFactoring.Mail.Entrada[],FacturaFactoring.Mail.Entrada[],System.Byte[],System.Object)">
+	<remarks/>
+</member><member name="M:FacturaFactoring.Mail.EnvioMail.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:FacturaFactoring.Mail.EnvioMail">
+	<remarks/>
+</member><member name="P:FacturaFactoring.Mail.Entrada.DESTINO">
+	<comentarios/>
+</member><member name="T:FacturaFactoring.Mail.Entrada">
+	<comentarios/>
+</member><member name="T:FacturaFactoring.Mail.Enviar_CorreoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:FacturaFactoring.Mail.Enviar_CorreoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:FacturaFactoring.Mail.Enviar_CorreoCompletedEventArgs">
+	<remarks/>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion_11">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion_3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.configuracion3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.detener">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.detener_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.detener_3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.detener1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.if_list_edit_83882">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.if_save_32_51415">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.iniciar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.iniciar_2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.iniciar_3">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:FacturaFactoring.My.Resources.Resources.iniciar1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:FacturaFactoring.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parametrogeneraless xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <servidor>222.1.120.3</servidor>
+  <usuario>ex_prismatec</usuario>
+  <contraseña>pris0403</contraseña>
+  <systemnumber>00</systemnumber>
+  <systemId>tst</systemId>
+  <notificarexitoso>N</notificarexitoso>
+  <mailnotificaexi />
+  <notificaError>S</notificaError>
+  <mailnotiicaError>erro@test.cl</mailnotiicaError>
+  <dirDescargamail>C:\Users\daniel\Desktop\Examen_Nacional</dirDescargamail>
+  <dirErrorFormato>C:\Users\daniel\Desktop\Examen_Nacional</dirErrorFormato>
+  <dirErrorRFC>C:\Users\daniel\Desktop\Examen_Nacional</dirErrorRFC>
+  <dirProcesados>C:\Users\daniel\Desktop\Examen_Nacional</dirProcesados>
+</parametrogeneraless>

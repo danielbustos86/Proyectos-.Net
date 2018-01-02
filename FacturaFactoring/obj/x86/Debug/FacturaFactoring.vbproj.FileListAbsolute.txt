@@ -1,0 +1,15 @@
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.exe.config
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.exe
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.pdb
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.xml
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\rscp4n.dll
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\sapnco.dll
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\sapnco_utils.dll
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.Configuracion.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.Form1.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.Resources.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.vbproj.GenerateResource.Cache
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.exe
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.xml
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.pdb
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Debug\FacturaFactoring.vbprojResolveAssemblyReference.cache

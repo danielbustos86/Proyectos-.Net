@@ -1,0 +1,258 @@
+**** Log file opened by process 4220 at 2017-12-14 10:15:04 (UTC-03:00 Hora estándar de Argentina)
+
+SAP .NET Connector 3.0 with file version 3.0.14.0 running on 32-bit .NET Framework 2.0.50727.5420
+Program: D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.vshost.exe
+Working directory: D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug
+Operating system: Windows 7 Professional 64-bit Service Pack 1
+Processor: 2x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 327
+Hostname: VIVIANA-PC, IP address: 10.172.192.111, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2017-12-14 10:15:04.070 [Thread 9]
+[ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZFI_DTE_MODIFICA not available: FU_NOT_FOUND: El módulo de funciones ZFI_DTE_MODIFICA no existe
+   en SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   en SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   en SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+>> Error entry 2017-12-14 10:15:04.088 [Thread 9]
+SAP.Middleware.Connector.RfcInvalidStateException: metadata for function ZFI_DTE_MODIFICA not available: FU_NOT_FOUND: El módulo de funciones ZFI_DTE_MODIFICA no existe
+   en SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadataNew(String name)
+   en SAP.Middleware.Connector.RfcRepository.LookupFunctionMetadata(String name)
+   en SAP.Middleware.Connector.RfcRepository.GetFunctionMetadata(String name)
+   en SAP.Middleware.Connector.RfcRepository.CreateFunction(String name)
+**** Log file opened by process 3680 at 2017-12-21 01:52:30 (UTC-03:00 Hora estándar de Argentina)
+
+SAP .NET Connector 3.0 with file version 3.0.14.0 running on 32-bit .NET Framework 2.0.50727.5420
+Program: D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.vshost.exe
+Working directory: D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug
+Operating system: Windows 7 Professional 64-bit Service Pack 1
+Processor: 2x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 327
+Hostname: VIVIANA-PC, IP address: 192.168.56.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2017-12-21 01:52:30.463 [Thread 10]
+Failure to create pool for destination EZC (ORIGINAL) [ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host Viviana-PC with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:52:30 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2017-12-21 01:52:30.499 [Thread 10]
+[ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host Viviana-PC with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:52:30 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   en SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   en SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   en SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2017-12-21 01:52:30.510 [Thread 10]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host Viviana-PC with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:52:30 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   en SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   en SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   en SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   en SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   en SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+>> Error entry 2017-12-21 01:52:51.586 [Thread 10]
+Failure to create pool for destination EZC (ORIGINAL) [ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:52:51 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2017-12-21 01:52:51.624 [Thread 10]
+[ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:52:51 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   en SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   en SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   en SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2017-12-21 01:52:51.634 [Thread 10]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:52:51 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     6
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   en SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   en SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   en SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   en SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   en SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+**** Log file opened by process 7068 at 2017-12-21 01:56:29 (UTC-03:00 Hora estándar de Argentina)
+
+SAP .NET Connector 3.0 with file version 3.0.14.0 running on 32-bit .NET Framework 2.0.50727.5420
+Program: D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug\FacturaFactoring.vshost.exe
+Working directory: D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Debug
+Operating system: Windows 7 Professional 64-bit Service Pack 1
+Processor: 2x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 327
+Hostname: VIVIANA-PC, IP address: 192.168.56.1, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2017-12-21 01:56:29.280 [Thread 11]
+Failure to create pool for destination EZC (ORIGINAL) [ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host Viviana-PC with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:56:29 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2017-12-21 01:56:29.315 [Thread 11]
+[ASHOST=222.1.120.3 SYSNR=00 SYSID=TST USER=ex_prismatec PASSWD=******** CLIENT=400 LANG=ES POOL_SIZE=5 MAX_POOL_SIZE=10 IDLE_TIMEOUT=600 NAME=EZC]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host Viviana-PC with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:56:29 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   en SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   en SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   en SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2017-12-21 01:56:29.326 [Thread 11]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host Viviana-PC with Unicode
+ERROR       partner '222.1.120.3:3300' not reached
+TIME        Thu Dec 21 01:56:29 2017
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3283
+DETAIL      NiPConnect2: 222.1.120.3:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     4
+
+   en SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   en SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   en SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   en SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   en SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   en SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   en SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)

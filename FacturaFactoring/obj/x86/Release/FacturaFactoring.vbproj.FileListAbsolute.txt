@@ -1,0 +1,9 @@
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.Configuracion.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.Form1.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.Resources.resources
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.vbproj.GenerateResource.Cache
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.exe
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.xml
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.pdb
+D:\consultorit\FacturaFactoring\FacturaFactoring\bin\x86\Release\FacturaFactoring.exe.config
+D:\consultorit\FacturaFactoring\FacturaFactoring\obj\x86\Release\FacturaFactoring.vbprojResolveAssemblyReference.cache

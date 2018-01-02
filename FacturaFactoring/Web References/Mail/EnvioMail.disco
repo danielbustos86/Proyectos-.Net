@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://222.1.60.66/WS_MailServerTransport/EnvioMail.asmx?wsdl" docRef="http://222.1.60.66/WS_MailServerTransport/EnvioMail.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://222.1.60.66/WS_MailServerTransport/EnvioMail.asmx" xmlns:q1="http://WS_MailServerTransporte/" binding="q1:EnvioMailSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://222.1.60.66/WS_MailServerTransport/EnvioMail.asmx" xmlns:q2="http://WS_MailServerTransporte/" binding="q2:EnvioMailSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
